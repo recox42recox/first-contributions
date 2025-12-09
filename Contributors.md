@@ -1,7 +1,7 @@
 # Contributors
 - [rohansalunkhe] (https://github.com/THEROHAN01)
-- [Srijan_Limbu] (https://github.com/DevendraNathLimbu) : Love you guys ❤️
-- [madhavmadupu](https://github.com/madhavmadupu)
+- [Srijan_Limbu] (https://github.com/DevendraNathLimbu) 
+- [madhavmadupu](https://github.com/madhavmadupu): Love you guys ❤️
 - [Dhwanit Patel](https://github.com/dhwanit10)
 -[Mamta Adivasi](https://github.com/milli525)
 - [webmastervetea](https://github.com/webmastervetea)
@@ -1973,5 +1973,6 @@ sujoy
 - [Navaneeth Reddy Alavala](https://github.com/navaneethreddydevops)
 -[Chanikya challa ](github.com/Chanikyachalla)
 -nibll4/niblle 
+- [Recox](https://github.com/recox42recox)
 - [CoventinaLachesis](github.com/CoventinaLachesis)
 - [Jiya Bhailal Merja IIIT-B](https://github.com/Jiya-786)
